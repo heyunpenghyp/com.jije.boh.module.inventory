@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='org.eclipse.update.feature' id='com.jije.boh.module.inventory.f.source' version='1.0.0.002'>
+    <properties size='7'>
+      <property name='artifact.size' value='2108'/>
+      <property name='download.size' value='2108'/>
+      <property name='download.md5' value='e8d69b9edb6298141e3cd14c97c9bb80'/>
+      <property name='maven-groupId' value='com.jije.boh'/>
+      <property name='maven-artifactId' value='com.jije.boh.module.inventory.f.source'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+      <property name='download.contentType' value='application/zip'/>
+    </properties>
+  </artifact>
+</artifacts>

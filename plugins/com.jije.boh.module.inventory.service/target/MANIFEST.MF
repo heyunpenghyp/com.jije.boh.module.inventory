@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-Vendor: JIJE
+Bundle-ActivationPolicy: lazy
+Bundle-Version: 1.0.0.002
+Bundle-Name: Service
+Bundle-Activator: com.jije.boh.module.inventory.service.Activator
+Bundle-ManifestVersion: 2
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-SymbolicName: com.jije.boh.module.inventory.service
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+

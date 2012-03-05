@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='2'>
+  <artifact classifier='osgi.bundle' id='com.jije.boh.module.inventory.service' version='1.0.0.002'>
+    <properties size='6'>
+      <property name='artifact.size' value='3137'/>
+      <property name='download.size' value='3137'/>
+      <property name='download.md5' value='3bf41077e1ad1a5a274c9d0b2604ec33'/>
+      <property name='maven-groupId' value='com.jije.boh'/>
+      <property name='maven-artifactId' value='com.jije.boh.module.inventory.service'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+  <artifact classifier='osgi.bundle' id='com.jije.boh.module.inventory.service.source' version='1.0.0.002'>
+    <properties size='7'>
+      <property name='artifact.size' value='1553'/>
+      <property name='download.size' value='1553'/>
+      <property name='download.md5' value='18fdaf7377475024fb12946edfa1f879'/>
+      <property name='maven-groupId' value='com.jije.boh'/>
+      <property name='maven-artifactId' value='com.jije.boh.module.inventory.service'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+    </properties>
+  </artifact>
+</artifacts>

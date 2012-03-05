@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?metadataRepository version='1.1.0'?>
+<repository name='publisher repository' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1330920580532'/>
+    <property name='p2.compressed' value='false'/>
+  </properties>
+  <units size='1'>
+    <unit id='002.Default' version='1.0.0.6--cJe4pu7AAM'>
+      <properties size='3'>
+        <property name='org.eclipse.equinox.p2.name' value='Uncategorized'/>
+        <property name='org.eclipse.equinox.p2.description' value='Default category for otherwise uncategorized features'/>
+        <property name='org.eclipse.equinox.p2.type.category' value='true'/>
+      </properties>
+      <provides size='1'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='002.Default' version='1.0.0.6--cJe4pu7AAM'/>
+      </provides>
+      <requires size='3'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.jije.boh.module.inventory.test.f.feature.group' range='[1.0.0.002,1.0.0.002]'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.jije.boh.module.inventory.f.feature.group' range='[1.0.0.002,1.0.0.002]'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.jije.boh.module.inventory.f.source.feature.group' range='[1.0.0.002,1.0.0.002]'/>
+      </requires>
+      <touchpoint id='null' version='0.0.0'/>
+    </unit>
+  </units>
+</repository>
